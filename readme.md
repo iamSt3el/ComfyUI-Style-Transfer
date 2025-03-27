@@ -19,7 +19,7 @@ The workflow uses:
 
 | Original | Stylized (Van Gogh) | Stylized (Watercolor) |
 |----------|---------------------|------------------------|
-| ![Original](samples/example.png) | ![Van Gogh](samples/vangogh_style.jpg) | ![Watercolor](samples/waterColor.jpg) |
+| ![Original](samples/example.png) | ![Van Gogh](samples/vangogh_style.png) | ![Watercolor](samples/waterColor.png) |
 
 ## Workflow Visualization
 
